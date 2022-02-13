@@ -1,4 +1,4 @@
-# c-
+# use of operators
 program to demonstrate operators
 
 using System;
